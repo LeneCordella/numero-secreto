@@ -2,7 +2,7 @@
 // let tentativas = 1
 // let chute
 
-// alert('Sejam bem vindo(a) ao jogo do número secreto')
+// alert('Seja bem vindo(a) ao jogo do número secreto')
 
 // while (chute != numeroSecreto) {
 //     let chute = prompt('Escolha um número entre 1 e 50')
